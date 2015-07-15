@@ -1,0 +1,22 @@
+{
+  "name": "aprendendo-reactjs",
+  "version": "1.0.0",
+  "description": "Exemplo de aplicação com reactJs",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damasio34/aprendendo-reactjs.git"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "Darlan Damasio <darlan@damasio34.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damasio34/aprendendo-reactjs/issues"
+  },
+  "homepage": "https://github.com/damasio34/aprendendo-reactjs"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "aprendendo-reactjs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/damasio34/aprendendo-reactjs",
+  "description": "Exemplo de aplicação com reactJs",
+  "main": "app/index.html",
+  "keywords": [
+    "reactJs"
+  ],
+  "authors": [
+    "Darlan Damasio <darlan@damasio34.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3"
+  }
+}
